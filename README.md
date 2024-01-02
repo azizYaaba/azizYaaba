@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdoul Aziz BONKOUNGOU</h1>
-<h3 align="center">An AI and Data Science student, a passionate fullstack, mobile developper and instructor</h3>
+<h3 align="center">An AI and Data Science ingineer, a passionate fullstack, mobile developper and instructor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizyaaba&label=Profile%20views&color=0e75b6&style=flat" alt="azizyaaba" /> </p>
 <img src="https://theexchange.africa/wp-content/uploads/2022/11/AI-1024x683.jpg" alt="AI for Africa" />
